@@ -1,1 +1,1 @@
-**This repository is for reporting issues and leaving feedback only**
+**This repository is for reporting issues and leaving feedback only. You can report issues [here](https://github.com/onidivo/actor-trulia-scraper/issues) and leave your feedback [here](https://github.com/onidivo/actor-trulia-scraper/discussions).**
